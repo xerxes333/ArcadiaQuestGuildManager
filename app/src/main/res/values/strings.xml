@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guild Manager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_create">Create</string>
+    <string name="title_activity_new_save">NewSave</string>
+    <string name="new_save_title">Create New Save File</string>
+
+
+    <string-array name="heroes_array">
+        <item>Diva</item>
+        <item>Greensleeves</item>
+        <item>Grom</item>
+        <item>Hobsbawm</item>
+        <item>Johan</item>
+        <item>Kanga</item>
+        <item>Maya</item>
+        <item>Scarlet</item>
+        <item>Seth</item>
+        <item>Spike</item>
+        <item>Wisp</item>
+        <item>Zazu</item>
+    </string-array>
+
+    <string-array name="guild_array">
+        <item>Lion</item>
+        <item>Eagle</item>
+        <item>Fox</item>
+        <item>Panda</item>
+    </string-array>
+
+    <string-array name="item_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>S</item>
+        <item>RM</item>
+        <item>D</item>
+        <item>BGS</item>
+        <item>BGR</item>
+    </string-array>
+
+</resources>

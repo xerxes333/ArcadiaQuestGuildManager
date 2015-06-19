@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<items>
+    <item>
+        <id>1</id>
+        <name>Rusty Blade</name>
+        <cost></cost>
+        <type>Melee Attack</type>
+        <group>Sword</group>
+        <dice>3</dice>
+        <effect></effect>
+        <level>S</level>
+        <number>1</number>
+        <image>rusty_blade</image>
+    </item>
+    <item>
+        <id>2</id>
+        <name>Parrying Blade</name>
+        <cost></cost>
+        <type>Melee Attack</type>
+        <group>Sword</group>
+        <dice>2</dice>
+        <effect>+1 Defense Roll</effect>
+        <level>S</level>
+        <number>2</number>
+        <image>parrying_blade</image>
+    </item>
+    <item>
+        <id>3</id>
+        <name>Slingshot</name>
+        <cost></cost>
+        <type>Ranged Attack</type>
+        <group>Bow</group>
+        <dice>2</dice>
+        <effect></effect>
+        <level>S</level>
+        <number>3</number>
+        <image>slingshot</image>
+    </item>
+    <item>
+        <id>1</id>
+        <name>Nova Bolt</name>
+        <cost></cost>
+        <type>Ranged Attack</type>
+        <group>Magic</group>
+        <dice>2</dice>
+        <effect>If this rolls and *, you may target an additional emeny close to the target.</effect>
+        <level>S</level>
+        <number>4</number>
+        <image>nova_bolt</image>
+    </item>
+    <item>
+        <id>1</id>
+        <name>Life Drain</name>
+        <cost></cost>
+        <type>Ranged Attack</type>
+        <group>Magic</group>
+        <dice>2</dice>
+        <effect>Each hit heals 1 wound from this Hero.</effect>
+        <level>S</level>
+        <number>5</number>
+        <image>life_drain</image>
+    </item>
+</items>
