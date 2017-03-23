@@ -41,7 +41,7 @@ public class SaveArrayAdapter extends ArrayAdapter<Save> {
          * WORKING HERE
          *
          * when the save is clicked it loads this layout which right now is just a copy of the savelist
-         * we need to get this layout to shoe the hero info if the save the user selected
+         * we need to get this layout to show the hero info if the save the user selected
          */
 
 //        if(convertView==null){
